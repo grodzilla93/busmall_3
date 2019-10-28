@@ -1,0 +1,24 @@
+section{
+    background-color: black;
+    border-block-end-style: dashed;
+    
+}
+
+img{
+    margin: 50px;
+    width: 20vw;
+    height: 20vw;
+}
+
+body{
+    text-decoration: none;
+    color: orchid;
+    /* <link href="https://fonts.googleapis.com/css?family=Oswald&display=swap" rel="stylesheet"> */
+    font-family: 'Oswald', sans-serif;
+}
+#address-section > section{
+float: left;
+width: 20%;
+background-color: #c6915d;
+font-family: 'Open Sans', sans-serif;
+}
